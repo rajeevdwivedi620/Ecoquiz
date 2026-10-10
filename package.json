@@ -1,0 +1,14 @@
+{
+  "name": "buildsmart",
+  "version": "1.0.0",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.19.2",
+    "sql.js": "^1.13.0"
+  }
+}

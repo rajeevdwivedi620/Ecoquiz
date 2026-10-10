@@ -1,0 +1,7 @@
+node_modules/
+buildsmart.db
+data/leaderboard.json
+.env
+.env.*
+!.env.example
+npm-debug.log*
