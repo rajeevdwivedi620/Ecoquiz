@@ -27,3 +27,33 @@ npm start
 ```
 
 The SQLite database and local leaderboard data are kept out of version control.
+
+
+
+### 👥 Contributors
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Sundramkumar33033302">
+        <img src="https://github.com/Sundramkumar33033302.png" width="100px;" alt="Sundram Kumar"/><br />
+        <sub><b>Sundram Kumar</b></sub>
+      </a><br />
+      <sub> Quiz designer </sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/rajeevdwivedi620">
+        <img src="https://github.com/rajeevdwivedi620.png" width="100px;" alt="Rajeev Dwivedi"/><br />
+        <sub><b>Rajeev Dwivedi</b></sub>
+      </a><br />
+      <sub> Lead developer </sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/prabhjotsingh200888">
+        <img src="https://github.com/prabhjotsingh200888.png" width="100px;" alt="Prabhjot Singh"/><br />
+        <sub><b>Prabhjot Singh</b></sub>
+      </a><br />
+      <sub> Website designer</sub>
+    </td>
+  </tr>
+</table>
